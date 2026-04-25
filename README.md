@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm BeamusWayne 👋
+# Hi, I'm Beamus Wayne 👋
 
 **Agent Engineer** · Building AI tools that solve real problems
 
@@ -45,7 +45,7 @@
 
 > 不教 PUA，只教真心 — A Claude Code skill for authentic relationship coaching
 
-用 Agent 工程化「追求」这件事：信号分析、个性化消息生成、11种危机场景处理、三模式切换（纯情/策略/混合）。本地数据处理，零服务器上传。
+受到同事.Skill的启发，紧跟时代热点，用 Agent 工程化「追求」和「认清自己」这件事：信号分析、个性化消息生成、11种危机场景处理、三策略切换。本地数据处理，零服务器上传。
 
 `Python` `Claude API` `Multi-mode System` `Local Processing`
 
