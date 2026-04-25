@@ -20,6 +20,10 @@
 
 ## 🛠 Tech Stack / 技术栈
 
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 **LLM & Agent Framework**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
@@ -28,6 +32,11 @@
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C3C3C?style=flat)
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+**Vector Storage**
+
+![Chroma](https://img.shields.io/badge/Chroma-1C3C3C?style=flat)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Infrastructure**
 
