@@ -18,7 +18,6 @@
 
 - 🔭 专注方向：**LLM Agent 工程化 · RAG 系统 · Claude Code Skill 开发**
 - 🛠 代表作：[simp-skill](https://github.com/BeamusWayne/simp-skill) ⭐125 — 用 Agent 解决真实的人际需求
-- 📚 正在研究：Multi-agent 系统、Production RAG Pipeline、Agentic RAG
 - 📍 Guangzhou / Beijing
 - 💼 Open to Agent Engineer / AI Engineer roles
 
@@ -29,26 +28,18 @@
 **LLM & Agent Framework**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat)
-![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=flat&logo=pydantic&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat)
-![Agno](https://img.shields.io/badge/Agno-333333?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-1C3C3C?style=flat&logo=pydantic&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C3C3C?style=flat)
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat)
 
-**RAG Pipeline**
+**Infrastructure**
 
-![HyDE](https://img.shields.io/badge/HyDE-4A90E2?style=flat)
-![RAGFusion](https://img.shields.io/badge/RAGFusion-7ED321?style=flat)
-![CRAG](https://img.shields.io/badge/CRAG-F5A623?style=flat)
-![Agentic_RAG](https://img.shields.io/badge/Agentic_RAG-9B59B6?style=flat)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=flat)
-
-**Tools**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
