@@ -32,6 +32,7 @@
 ![PydanticAI](https://img.shields.io/badge/PydanticAI-1C3C3C?style=flat&logo=pydantic&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C3C3C?style=flat)
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 **Infrastructure**
 
