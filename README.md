@@ -74,18 +74,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![BeamusWayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeamusWayne&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeamusWayne&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Contact / 联系我
 
 [![Email](https://img.shields.io/badge/Email-fgotbe@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fgotbe@gmail.com)
