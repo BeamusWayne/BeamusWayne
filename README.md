@@ -53,7 +53,7 @@
 
 ## 🚀 Featured Projects / 代表项目
 
-### [simp-skill](https://github.com/BeamusWayne/simp-skill) · ⭐ 125
+### [simp-skill](https://github.com/BeamusWayne/simp-skill) · ⭐ 129
 
 > 不教 PUA，只教真心 — A Claude Code skill for authentic relationship coaching
 
