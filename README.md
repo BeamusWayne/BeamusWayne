@@ -14,7 +14,7 @@
 ## 🤖 About Me / 关于我
 
 - 🔭 专注方向：**AI Agent · Harness Engineering · RAG 系统 · Claude Code Skill 开发**
-- 🛠 代表作：[simp-skill](https://github.com/BeamusWayne/simp-skill) ⭐125 — 用 Agent 解决真实的人际需求
+- 🛠 代表作：[simp-skill](https://github.com/BeamusWayne/simp-skill) ⭐129 — 用 Agent 解决真实的人际需求
 
 ---
 
