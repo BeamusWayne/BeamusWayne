@@ -14,7 +14,7 @@
 ## 🤖 About Me / 关于我
 
 - 🔭 专注方向：**AI Agent · Harness Engineering · RAG 系统 · Claude Code Skill 开发**
-- 🛠 代表作：[simp-skill](https://github.com/BeamusWayne/simp-skill) ⭐133 — 用 Agent 解决真实的人际需求
+- 🛠 代表作：[simp-skill](https://github.com/BeamusWayne/simp-skill) ⭐155 — 用 Agent 解决真实的人际需求
 
 ---
 
@@ -53,7 +53,7 @@
 
 ## 🚀 Featured Projects / 代表项目
 
-### [simp-skill](https://github.com/BeamusWayne/simp-skill) · ⭐ 133
+### [simp-skill](https://github.com/BeamusWayne/simp-skill) · ⭐ 155
 
 > 不教 PUA，只教真心 — A Claude Code skill for authentic relationship coaching
 
@@ -63,7 +63,7 @@
 
 ---
 
-### [RAG-learning](https://github.com/BeamusWayne/RAG-learning) · ⭐ 23
+### [RAG-learning](https://github.com/BeamusWayne/RAG-learning) · ⭐ 24
 
 > 从零到生产的中文 RAG 完整学习路径
 
