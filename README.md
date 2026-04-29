@@ -57,7 +57,7 @@
 
 > 不教 PUA，只教真心 — A Claude Code skill for authentic relationship coaching
 
-受到同事.Skill的启发，紧跟时代热点，用 Agent 工程化「追求」和「认清自己」这件事：信号分析、个性化消息生成、11种危机场景处理、三策略切换。本地数据处理，零服务器上传。
+受到同事.Skill的启发，紧跟时代热点，完整验证 Claude Code Skill 框架的多模块协同能力(以人际沟通场景作为最小可信验证用例)：多源数据解析（聊天导出 / EXIF 元信息）、上下文信号识别、策略状态机、危机应对 fallback；本地化处理保障隐私边界。
 
 `Python` `Claude API` `Multi-mode System` `Local Processing`
 
