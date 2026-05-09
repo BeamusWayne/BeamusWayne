@@ -16,7 +16,7 @@
 - 🔭 专注方向：**AI Agent · Harness Engineering · RAG 系统 · Claude Code Skill 开发**
 - 🛠 代表作：
   - [simp-skill](https://github.com/BeamusWayne/simp-skill) ⭐155 — 用 Agent 解决真实的人际需求
-  - [RAG-learning](https://github.com/BeamusWayne/RAG-learning) ⭐ 24 - 从零到生产的中文 RAG 完整学习路径
+  - [RAG-learning](https://github.com/BeamusWayne/RAG-learning) ⭐ 26 - 从零到生产的中文 RAG 完整学习路径
 
 ---
 
@@ -70,7 +70,7 @@
 
 ---
 
-### [RAG-learning](https://github.com/BeamusWayne/RAG-learning) · ⭐ 24
+### [RAG-learning](https://github.com/BeamusWayne/RAG-learning) · ⭐ 26
 
 > 从零到生产的中文 RAG 完整学习路径
 
