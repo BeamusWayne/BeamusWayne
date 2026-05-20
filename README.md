@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Beamus%20Wayne&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Agent%20Engineer%20%C2%B7%20Harness%20Architect%20%C2%B7%20RAG%20Systems&descSize=16&descAlignY=52)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=9A4DFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI+tools+that+solve+real+problems;用+AI+工程化真实需求%2C+让+Agent+解决真实问题;Open+to+Agent+Engineer+%2F+AI+Engineer+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=9A4DFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+AI+tools+that+solve+real+problems;用+AI+工程化真实需求%2C+让+Agent+解决真实问题;Open+to+Agent+Engineer+%2F+AI+Engineer+roles)](https://git.io/typing-svg)
 
 ---
 
