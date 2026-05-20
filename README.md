@@ -19,14 +19,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeamusWayne&show_icons=true&theme=radical&hide_border=true&bg_color=00000000#gh-dark-mode-only)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeamusWayne&show_icons=true&theme=default&hide_border=true&bg_color=00000000#gh-light-mode-only)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeamusWayne&layout=compact&theme=radical&hide_border=true&bg_color=00000000#gh-dark-mode-only)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeamusWayne&layout=compact&theme=default&hide_border=true&bg_color=00000000#gh-light-mode-only)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BeamusWayne&theme=radical&hide_border=true&background=00000000#gh-dark-mode-only)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BeamusWayne&theme=default&hide_border=true&background=FFFFFF&sideLabels=4169E1#gh-light-mode-only)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BeamusWayne&theme=reactive&hide_border=true&area_color=9A4DFF&line_color=9A4DFF&point_color=FF6B95#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
