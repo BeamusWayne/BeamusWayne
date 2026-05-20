@@ -22,6 +22,11 @@
 ![Top Languages](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/top-langs.svg#gh-dark-mode-only)
 ![Top Languages](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/top-langs-light.svg#gh-light-mode-only)
 
+### Contribution Graph
+
+![Activity Graph](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/activity-graph.svg#gh-dark-mode-only)
+![Activity Graph](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/activity-graph-light.svg#gh-light-mode-only)
+
 ---
 
 ## Featured Projects

@@ -46,6 +46,12 @@ jobs:
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Activity Graph (dark)
+        run: npx github-readme-activity-graph --username=${{ github.repository_owner }} --theme=react-dark --hide_border=true --colors=9A4DFF,5B1BA0,3C0F6E,2A0A4E --output=profile/activity-graph.svg
+
+      - name: Generate Activity Graph (light)
+        run: npx github-readme-activity-graph --username=${{ github.repository_owner }} --theme=default --hide_border=true --output=profile/activity-graph-light.svg
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
