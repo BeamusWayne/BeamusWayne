@@ -17,14 +17,22 @@
 
 ## GitHub Stats
 
+<div align="center">
+
 ![GitHub Stats](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/github-stats.svg#gh-dark-mode-only)
 ![GitHub Stats](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/github-stats-light.svg#gh-light-mode-only)
 ![Top Languages](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/top-langs.svg#gh-dark-mode-only)
 ![Top Languages](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/top-langs-light.svg#gh-light-mode-only)
 
+</div>
+
 ### Contribution Graph
 
+<div align="center">
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BeamusWayne&theme=react-light&hide_border=true&area=true&color=3B82F6&line=2563EB&point=3B82F6&bg_color=ffffff)](https://github.com/ashutosh007/github-readme-activity-graph)
+
+</div>
 
 ---
 
