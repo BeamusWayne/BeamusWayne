@@ -34,6 +34,30 @@
 
 </div>
 
+### Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BeamusWayne&theme=radical&hide_border=true&background=00000000)](https://git.io/streak-stats)
+
+</div>
+
+### Visitor Count
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=BeamusWayne&style=flat-square&color=blue)
+
+</div>
+
+### Skills
+
+<div align="center">
+
+[![Skills](https://skills-icons.vercel.app/api/icons?i=python,cpp,java,typescript,docker,redis,postgresql,mysql,mongodb,fastapi,vue&theme=dark)](https://github.com/tandpfun/skill-icons)
+
+</div>
+
 ---
 
 ## Featured Projects
