@@ -24,8 +24,7 @@
 
 ### Contribution Graph
 
-![Activity Graph](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/activity-graph.svg#gh-dark-mode-only)
-![Activity Graph](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/activity-graph-light.svg#gh-light-mode-only)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BeamusWayne&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh007/github-readme-activity-graph)
 
 ---
 
