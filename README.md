@@ -24,7 +24,7 @@
 
 ### Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BeamusWayne&theme=react-light&hide_border=true&area=true&color=9A4DFF&line=5B1BA0&point=9A4DFF)](https://github.com/ashutosh007/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BeamusWayne&theme=react-light&hide_border=true&area=true&color=9A4DFF&line=5B1BA0&point=9A4DFF&bg_color=ffffff)](https://github.com/ashutosh007/github-readme-activity-graph)
 
 ---
 
