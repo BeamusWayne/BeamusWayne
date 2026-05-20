@@ -128,7 +128,7 @@ Hermes 多智能体编排框架的中文实践指南。
 
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BeamusWayne&theme=radical&no-frame=true&no-bg=true&column=4&rank=SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BeamusWayne&theme=radical&no-frame=true&no-bg=true&column=4&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
