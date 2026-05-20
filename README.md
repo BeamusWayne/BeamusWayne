@@ -18,20 +18,20 @@
 ## GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/master/profile/github-stats.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/master/profile/github-stats-light.svg" />
-  <img height="170" src="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/master/profile/github-stats.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/github-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/github-stats-light.svg" />
+  <img height="170" src="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/github-stats.svg" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/master/profile/top-langs.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/master/profile/top-langs-light.svg" />
-  <img height="170" src="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/master/profile/top-langs.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/top-langs.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/top-langs-light.svg" />
+  <img height="170" src="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/top-langs.svg" />
 </picture>
 
-[![GitHub Streak](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/master/profile/streak-stats.svg)](https://git.io/streak-stats)
+[![GitHub Streak](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/streak-stats.svg)](https://git.io/streak-stats)
 
-[![Activity Graph](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/master/profile/activity-graph.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/activity-graph.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
