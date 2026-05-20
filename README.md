@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 🔭 **Focus:** AI Agent · Harness Engineering · RAG · Claude Code Skill Development
+- 🔭 **Focus:** AI Agent Systems · RAG Architecture · Multi-LLM Engineering · Workflow Automation
 - 🏠 **Based in:** Guangzhou, China
 - 🌏 **Open to:** Beijing · Shanghai · Singapore · Remote
 - 📫 **Reach me:** [fgotbe@gmail.com](mailto:fgotbe@gmail.com)
