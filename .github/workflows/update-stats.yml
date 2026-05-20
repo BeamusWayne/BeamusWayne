@@ -57,16 +57,16 @@ jobs:
             profile/streak-stats.svg
 
       - name: Generate Activity Graph
-        uses: Ashutosh00710/github-readme-activity-graph@main
-        with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: reactive
-          hide_border: true
-          area_color: "9A4DFF"
-          line_color: "9A4DFF"
-          point_color: "FF6B95"
-          output: |
-            profile/activity-graph.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npx github-readme-activity-graph --username ${{ github.repository_owner }} \
+            --theme reactive \
+            --hide-border \
+            --area-color 9A4DFF \
+            --line-color 9A4DFF \
+            --point-color FF6B95 \
+            --output profile/activity-graph.svg
 
       - name: Commit and push if changed
         run: |
