@@ -46,28 +46,6 @@ jobs:
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: radical
-          hide_border: true
-          background: "00000000"
-          output: |
-            profile/streak-stats.svg
-
-      - name: Generate Activity Graph
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          npx github-readme-activity-graph --username ${{ github.repository_owner }} \
-            --theme reactive \
-            --hide-border \
-            --area-color 9A4DFF \
-            --line-color 9A4DFF \
-            --point-color FF6B95 \
-            --output profile/activity-graph.svg
-
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"

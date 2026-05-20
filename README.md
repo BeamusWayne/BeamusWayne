@@ -17,10 +17,10 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeamusWayne&show_icons=true&theme=radical&hide_border=true&bg_color=00000000#gh-dark-mode-only)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeamusWayne&show_icons=true&theme=default&hide_border=true&bg_color=00000000#gh-light-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeamusWayne&layout=compact&theme=radical&hide_border=true&bg_color=00000000#gh-dark-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeamusWayne&layout=compact&theme=default&hide_border=true&bg_color=00000000#gh-light-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/github-stats.svg#gh-dark-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/github-stats-light.svg#gh-light-mode-only)
+![Top Languages](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/top-langs.svg#gh-dark-mode-only)
+![Top Languages](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/top-langs-light.svg#gh-light-mode-only)
 
 ---
 
