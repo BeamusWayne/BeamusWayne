@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BeamusWayne&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BeamusWayne&theme=github&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
