@@ -54,7 +54,9 @@
 
 <div align="center">
 
-[![Skills](https://skills-icons.vercel.app/api/icons?i=python,cpp,java,typescript,docker,redis,postgresql,mysql,mongodb,fastapi,vue&theme=dark)](https://github.com/tandpfun/skill-icons)
+[![Languages](https://skills-icons.vercel.app/api/icons?i=python,cpp,java,ts,go,rust,c,ruby,php,swift,kotlin,dart,lua,elixir,scala,perl,r,zig,nim&theme=dark&perline=11)](https://github.com/tandpfun/skill-icons)
+
+[![Infra & Tools](https://skills-icons.vercel.app/api/icons?i=fastapi,docker,redis,postgres,mysql,mongodb,vue,git,githubactions,linux,nodejs&theme=dark&perline=11)](https://github.com/tandpfun/skill-icons)
 
 </div>
 
