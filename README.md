@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BeamusWayne&theme=radical&hide_border=true&background=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BeamusWayne&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -47,16 +47,6 @@
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=BeamusWayne&style=flat-square&color=blue)
-
-</div>
-
-### Skills
-
-<div align="center">
-
-[![Languages](https://skills-icons.vercel.app/api/icons?i=python,cpp,java,ts,go,rust,c,ruby,php,swift,kotlin,dart,lua,elixir,scala,perl,r,zig,nim&theme=dark&perline=11)](https://github.com/tandpfun/skill-icons)
-
-[![Infra & Tools](https://skills-icons.vercel.app/api/icons?i=fastapi,docker,redis,postgres,mysql,mongodb,vue,git,githubactions,linux,nodejs&theme=dark&perline=11)](https://github.com/tandpfun/skill-icons)
 
 </div>
 
