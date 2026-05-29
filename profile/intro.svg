@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="100" viewBox="0 0 600 100" role="img" aria-labelledby="title desc">
+  <title id="title">Intro tagline</title>
+  <desc id="desc">Building AI tools that solve real problems. Open to Agent Engineer and AI Engineer roles.</desc>
+  <style>
+    text {
+      fill: #2563eb;
+      font-family: "Fira Code", "Cascadia Code", "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+      font-size: 22px;
+      font-weight: 700;
+    }
+  </style>
+  <text x="300" y="40" text-anchor="middle">Building AI tools that solve real problems</text>
+  <text x="300" y="72" text-anchor="middle">Open to Agent Engineer / AI Engineer roles</text>
+</svg>

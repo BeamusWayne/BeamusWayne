@@ -1,8 +1,8 @@
 <!-- Header Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Beamus%20Wayne&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Agent%20Engineer%20%C2%B7%20Harness%20Architect%20%C2%B7%20RAG%20Systems&descSize=16&descAlignY=52)
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=9A4DFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+AI+tools+that+solve+real+problems;用+AI+工程化真实需求%2C+让+Agent+解决真实问题;Open+to+Agent+Engineer+%2F+AI+Engineer+roles)](https://git.io/typing-svg)
+<!-- Intro Tagline -->
+![Intro](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/intro.svg)
 
 ---
 
@@ -74,6 +74,16 @@
 
 ---
 
+### [Mastra-Tutorial](https://github.com/BeamusWayne/Mastra-Tutorial)
+
+> 面向 TypeScript 开发者的 Mastra 中文教程
+
+按真实工程路径重写的 Mastra 学习指南：先建立心智模型，再做可运行项目，最后进入 Memory、RAG、MCP、评测、观测和部署。
+
+`TypeScript` `Mastra` `Agent` `Workflow` `RAG` `MCP`
+
+---
+
 ### [HarnessTemplates](https://github.com/BeamusWayne/HarnessTemplates)
 
 > Harness Engineering 中文模板 · AI 自动化工作流模板集
@@ -142,11 +152,13 @@ Hermes 多智能体编排框架的中文实践指南。
 
 ---
 
+<!--
 ## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BeamusWayne&theme=radical&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+-->
 
 ## Contact
 
