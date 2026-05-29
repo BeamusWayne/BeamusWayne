@@ -11,8 +11,8 @@
 ## About Me
 
 - 🔭 **Focus:** AI Agent Systems · RAG Architecture · Multi-LLM Engineering · Workflow Automation
-- 🏠 **Based in:** Guangzhou, China
-- 🌏 **Open to:** Beijing · Shanghai · Singapore · Remote
+- 🏠 **Based in:** Shenzhen, China
+- 🌏 **Open to:** Beijing · Shanghai · Guangzhou · Singapore · Remote
 - 📫 **Reach me:** [fgotbe@gmail.com](mailto:fgotbe@gmail.com)
 
 ---
