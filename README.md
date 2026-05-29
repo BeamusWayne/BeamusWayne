@@ -2,7 +2,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Beamus%20Wayne&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Agent%20Engineer%20%C2%B7%20Harness%20Architect%20%C2%B7%20RAG%20Systems&descSize=16&descAlignY=52)
 
 <!-- Intro Tagline -->
-![Intro](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/intro.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/intro.svg" alt="Building AI tools that solve real problems. Open to Agent Engineer / AI Engineer roles." />
+</p>
 
 ---
 
