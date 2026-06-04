@@ -56,6 +56,16 @@
 
 ## Featured Projects
 
+### [trace-vault](https://github.com/BeamusWayne/trace-vault)
+
+> 工具调用型 Agent 的录制/回放可靠性闸门 · Determinism ≠ Faithfulness
+
+录一次 Agent 运行、离线确定性回放，在 CI 上分别卡两条独立的轴：确定性（每次是否走相同轨迹，pass^k + 置信区间）与可信度（是否真改变了 SQLite / 文件系统的真实状态，而非只看转录）。mypy --strict、107 测试、四道 CI 门禁、中英双语文档与从零教程。
+
+`Python` `AI Agents` `Eval / CI Gate` `Record-Replay` `mypy strict`
+
+---
+
 ### [simp-skill](https://github.com/BeamusWayne/simp-skill) · ⭐ 200+
 
 > 不教 PUA，只教真心 — A Claude Code skill for authentic relationship coaching
