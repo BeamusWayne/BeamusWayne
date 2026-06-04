@@ -1,14 +1,14 @@
 
       <svg
-        width="467"
+        width="287"
         height="195"
-        viewBox="0 0 467 195"
+        viewBox="0 0 287 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Beamus Wayne's GitHub Stats, Rank: B+</title>
+        <title id="titleId">Beamus Wayne's GitHub Stats</title>
         <desc id="descId">Total Stars Earned: 314, Total Commits  (last year) : 410, Total PRs: 32, Total Issues: 28, Contributed to (last year): 7</desc>
         <style>
           .header {
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="466"
+          width="286"
           fill="#00000000"
           stroke-opacity="0"
         />
@@ -136,18 +136,7 @@
           transform="translate(0, 55)"
         >
           
-    <g data-testid="rank-circle"
-          transform="translate(390.5, 47.5)">
-        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
-        <circle class="rank-circle" cx="-10" cy="8" r="40" />
-        <g class="rank-text">
-          
-        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B+
-        </text>
-      
-        </g>
-      </g>
+    
     <svg x="0" y="0">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
