@@ -56,7 +56,7 @@
 
 ## Featured Projects
 
-### [trace-vault](https://github.com/BeamusWayne/trace-vault)
+### [trace-vault](https://github.com/BeamusWayne/trace-vault) · [▶ Live demo](https://beamuswayne.github.io/trace-vault/)
 
 > 工具调用型 Agent 的录制/回放可靠性闸门 · Determinism ≠ Faithfulness
 
@@ -66,7 +66,17 @@
 
 ---
 
-### [simp-skill](https://github.com/BeamusWayne/simp-skill) · ⭐ 200+
+### [provenant](https://github.com/BeamusWayne/provenant)
+
+> 玻璃盒账单审计 Agent · 每个数字都带密码学回执
+
+逐项审计任意账单，LLM 全程禁止做算术——所有计算走确定性引擎，每条结论生成 HMAC 签名的 Proof Receipt，可脱离模型独立校验。配 React 驾驶舱、Docker/CI、mypy --strict、BillAudit-Bench、中英双语文档。
+
+`Python` `AI Agents` `Verifiable Compute` `HMAC Receipts` `React`
+
+---
+
+### [simp-skill](https://github.com/BeamusWayne/simp-skill) · ⭐ 240+
 
 > 不教 PUA，只教真心 — A Claude Code skill for authentic relationship coaching
 
@@ -76,7 +86,7 @@
 
 ---
 
-### [RAG-learning](https://github.com/BeamusWayne/RAG-learning) · ⭐ 28+
+### [RAG-learning](https://github.com/BeamusWayne/RAG-learning) · ⭐ 35+
 
 > 从零到生产的中文 RAG 完整学习路径
 
