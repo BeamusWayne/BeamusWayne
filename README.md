@@ -48,6 +48,16 @@
 
 ## Featured Projects
 
+### [NightWatch](https://github.com/BeamusWayne/NightWatch) · 🆕
+
+> 通宵运行的 AI Agent 黑匣子 · Logs are claims, replays are proofs
+
+Fable 5 时代的多天自主运行,第二天早上谁来审查?Claude Code hooks 把每个事件写入 SHA-256 哈希链台账,git plumbing 沿途快照,晨报独立核验三类主张:测试是否真通过（重跑原命令）、是否越界（声明 glob vs git 事实）、有没有绕过工具的暗写入。Fail-open 设计、确定性核验（不让 LLM 给 LLM 打分）、46 测试、中英双语。
+
+`TypeScript` `Hash-chain Ledger` `Claude Code Hooks` `Deterministic Verification` `Checkpoints`
+
+---
+
 ### [trace-vault](https://github.com/BeamusWayne/trace-vault) · [▶ Live demo](https://beamuswayne.github.io/trace-vault/)
 
 > 工具调用型 Agent 的录制/回放可靠性闸门 · Determinism ≠ Faithfulness
