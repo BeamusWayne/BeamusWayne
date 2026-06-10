@@ -32,7 +32,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BeamusWayne&theme=react-light&hide_border=true&area=true&color=3B82F6&line=2563EB&point=3B82F6&bg_color=ffffff)](https://github.com/ashutosh007/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BeamusWayne&theme=react-light&hide_border=true&area=true&color=3B82F6&line=2563EB&point=3B82F6&bg_color=ffffff)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -41,14 +41,6 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BeamusWayne&theme=github&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-### Visitor Count
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=BeamusWayne&style=flat-square&color=blue)
 
 </div>
 
@@ -73,6 +65,16 @@
 逐项审计任意账单，LLM 全程禁止做算术——所有计算走确定性引擎，每条结论生成 HMAC 签名的 Proof Receipt，可脱离模型独立校验。配 React 驾驶舱、Docker/CI、mypy --strict、BillAudit-Bench、中英双语文档。
 
 `Python` `AI Agents` `Verifiable Compute` `HMAC Receipts` `React`
+
+---
+
+### [Alfred](https://github.com/BeamusWayne/Alfred)
+
+> 可验证的自主编码 Agent（CLI）· TypeScript + Bun
+
+「完成」不由模型自述，而由机器门禁判定：feature_list 状态机 → verify-fix 循环 → rubric 门禁 → 签名可回放的运行台账（run ledger）。支持录制轨迹回放做回归评测，内存 agent 自管但全程可审查。538 测试、tsc --noEmit 全绿、运行时仅 3 个依赖。
+
+`TypeScript` `Bun` `Autonomous Agent` `Replay Eval` `Signed Ledger`
 
 ---
 
@@ -141,6 +143,7 @@ Hermes 多智能体编排框架的中文实践指南。
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -150,6 +153,7 @@ Hermes 多智能体编排框架的中文实践指南。
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![PydanticAI](https://img.shields.io/badge/PydanticAI-1C3C3C?style=for-the-badge&logo=pydantic&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C3C3C?style=for-the-badge)
+![Mastra](https://img.shields.io/badge/Mastra-0D0D0D?style=for-the-badge)
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -169,6 +173,7 @@ Hermes 多智能体编排框架的中文实践指南。
 
 **Frontend**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)
 
