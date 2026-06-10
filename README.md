@@ -66,6 +66,8 @@ Fable 5 时代的多天自主运行,第二天早上谁来审查?Claude Code hook
 
 `Python` `AI Agents` `Eval / CI Gate` `Record-Replay` `mypy strict`
 
+🔧 **同域实战**：为 [mastra#17737](https://github.com/mastra-ai/mastra/pull/17737)（Agent 工具回放 · 确定性评测）根因诊断三个红 CI，修复建议 16 分钟内被作者采纳并[在 commit 中致谢](https://github.com/mastra-ai/mastra/commit/94d4f3f20c)。
+
 ---
 
 ### [provenant](https://github.com/BeamusWayne/provenant)
