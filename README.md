@@ -80,7 +80,7 @@ Fable 5 时代的多天自主运行,第二天早上谁来审查?Claude Code hook
 
 ---
 
-### [Alfred](https://github.com/BeamusWayne/Alfred)
+### [Alfred](https://github.com/BeamusWayne/Alfred) · [▶ Docs](https://beamuswayne.github.io/Alfred/)
 
 > 可验证的自主编码 Agent（CLI）· TypeScript + Bun
 
