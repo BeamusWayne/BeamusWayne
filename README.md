@@ -52,9 +52,9 @@
 
 > 通宵运行的 AI Agent 黑匣子 · Logs are claims, replays are proofs
 
-Fable 5 时代的多天自主运行,第二天早上谁来审查?Claude Code hooks 把每个事件写入 SHA-256 哈希链台账,git plumbing 沿途快照,晨报独立核验三类主张:测试是否真通过（重跑原命令）、是否越界（声明 glob vs git 事实）、有没有绕过工具的暗写入。Fail-open 设计、确定性核验（不让 LLM 给 LLM 打分）、46 测试、中英双语。
+Fable 5 时代的多天自主运行,第二天早上谁来审查?Claude Code hooks 把每个事件写入 SHA-256 哈希链台账,git plumbing 沿途快照,晨报独立核验三类主张:测试是否真通过（重跑原命令）、是否越界（声明 glob vs git 事实）、有没有绕过工具的暗写入;attest 门禁让 AI 的 PR「没有回执,不进 review」。npm + GitHub Marketplace 双上架;头两次实录 dogfood 抓出并当天修复记录器自身五个 bug,原始台账全程公开。94 测试、中英双语。
 
-`TypeScript` `Hash-chain Ledger` `Claude Code Hooks` `Deterministic Verification` `Checkpoints`
+`TypeScript` `Hash-chain Ledger` `Claude Code Hooks` `GitHub Action` `Deterministic Verification`
 
 ---
 
