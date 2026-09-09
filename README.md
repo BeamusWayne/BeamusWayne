@@ -32,7 +32,8 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BeamusWayne&theme=react-light&hide_border=true&area=true&color=3B82F6&line=2563EB&point=3B82F6&bg_color=ffffff)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/activity-graph.svg#gh-dark-mode-only)
+![Activity Graph](https://raw.githubusercontent.com/BeamusWayne/BeamusWayne/main/profile/activity-graph-light.svg#gh-light-mode-only)
 
 </div>
 
