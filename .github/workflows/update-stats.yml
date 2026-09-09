@@ -12,39 +12,59 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Generate GitHub Stats Card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&hide_border=true&bg_color=00000000
           path: profile/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_PAT || github.token }}
+          fail_on_error: true
 
       - name: Generate GitHub Stats Card (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=default&hide_border=true&bg_color=00000000
           path: profile/github-stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_PAT || github.token }}
+          fail_on_error: true
 
       - name: Generate Top Languages Card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true&bg_color=00000000
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_PAT || github.token }}
+          fail_on_error: true
 
       - name: Generate Top Languages Card (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=default&hide_border=true&bg_color=00000000
           path: profile/top-langs-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_PAT || github.token }}
+          fail_on_error: true
+
+      - name: Generate Activity Graph (dark)
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: hide_border=true&area=true&color=3B82F6&line=2563EB&point=3B82F6&bg_color=00000000&title_color=ffffff
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.STATS_PAT || github.token }}
+
+      - name: Generate Activity Graph (light)
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=react-light&hide_border=true&area=true&color=3B82F6&line=2563EB&point=3B82F6&bg_color=ffffff
+          output_path: profile/activity-graph-light.svg
+          token: ${{ secrets.STATS_PAT || github.token }}
 
       - name: Commit and push if changed
         run: |
